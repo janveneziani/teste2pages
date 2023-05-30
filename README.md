@@ -1,5 +1,5 @@
 # teste2pages
 
-#adicionados arquivos por upload
+# adicionados arquivos por upload
 
-#primeiro teste de publicação em 30/05
+# primeiro teste de publicação em 30/05
